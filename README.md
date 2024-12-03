@@ -31,6 +31,5 @@ Durante o desenvolvimento, foram estudadas e aplicadas as seguintes técnicas:
 - **Renderização e Otimização**: [Next.js](https://nextjs.org/) - para SSR, SSG e SEO.
 - **Pagamento**: [Stripe](https://stripe.com/) - API para integração de pagamentos.
 - **Carrosel de Imagens**: [Keen-slider](https://keen-slider.io/) - Criação de carrosel de imagens
-- **Outras Dependências**:
-  - **Axios**: Para consumo de APIs.
-  - **Vite**: Ferramenta de construção rápida para desenvolvimento.
+- **Axios**: Para consumo de APIs.
+  
